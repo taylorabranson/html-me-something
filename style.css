@@ -1,0 +1,31 @@
+#createdby {
+    margin-left: 40px;
+}
+
+body {
+    background-color: beige;
+}
+
+nav {
+    margin-left: 40px;
+}
+
+article {
+    margin-left: 40px;
+}
+
+h1 {
+    margin-left: 40px;
+}
+
+p {
+    max-width: 700px;
+}
+
+img {
+    max-width: 650px;
+}
+
+footer {
+    margin-left: 40px
+}
