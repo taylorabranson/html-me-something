@@ -1,5 +1,13 @@
 #createdby {
     margin-left: 40px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.maintext {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
 }
 
 body {
@@ -14,8 +22,20 @@ article {
     margin-left: 40px;
 }
 
+section {
+    padding-top: 5px;
+}
+
 h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
     margin-left: 40px;
+}
+
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
 }
 
 p {
@@ -27,5 +47,8 @@ img {
 }
 
 footer {
-    margin-left: 40px
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 40px;
+    padding-top: 15px;
+    padding-bottom: 25px;
 }
